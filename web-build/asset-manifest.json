@@ -1,0 +1,24 @@
+{
+  "files": {
+    "app.js": "/static/js/app.edba5351.chunk.js",
+    "app.js.map": "/static/js/app.edba5351.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.34c76111.js",
+    "runtime~app.js.map": "/static/js/runtime~app.34c76111.js.map",
+    "static/js/2.04fee077.chunk.js": "/static/js/2.04fee077.chunk.js",
+    "static/js/2.04fee077.chunk.js.map": "/static/js/2.04fee077.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/media/paper.png": "/static/media/paper.cffb3100.png",
+    "static/media/rock.png": "/static/media/rock.864b5a2a.png",
+    "static/media/scissors.png": "/static/media/scissors.48d238a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.34c76111.js",
+    "static/js/2.04fee077.chunk.js",
+    "static/js/app.edba5351.chunk.js"
+  ]
+}
